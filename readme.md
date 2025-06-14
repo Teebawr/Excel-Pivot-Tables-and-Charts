@@ -3,7 +3,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Tudor%20Olariu-black?logo=github&logoColor=white)](https://github.com/Teebawr)
 
-## IMDb database analysis
+## IMDb movie database analysis
 
 Interactive dashboard to analyze the data on IMDB movies, including actors, rating, social media engagement and revenue.
 
